@@ -1,0 +1,33 @@
+h6#green {
+    color: #3d9f96;
+}
+
+button.BN {
+    border-color: #3d9f96;
+    background-color: #3d9f96;
+    border-radius: 2rem;
+    color: aliceblue;
+    padding: 2% 15%;
+}
+
+div.map {
+    background-image: url(../img/image/map_bg.png);
+    padding: 5%;
+    font-family: Helvetica, Arial, sans-serif, 'Raleway';
+}
+
+div.separator {
+    background-image: url(../img/image/seperator1-.jpg);
+    color: #FFFFFF;
+    padding: 5% 20%;
+    font-family: Raleway, Arial, sans-serif;
+}
+
+pre {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 2% 5%;
+}
